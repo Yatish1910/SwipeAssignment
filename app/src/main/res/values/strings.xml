@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SwipeAssignment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_type">Product Type</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="tax">Tax</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="submit">Submit</string>
+    <string name="_0_0">0.0</string>
+
+    <string-array name="product_type">
+        <item>Product</item>
+        <item>Fruits</item>
+        <item>Chocolate</item>
+        <item>Services</item>
+    </string-array>
+
+</resources>
